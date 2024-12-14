@@ -5,7 +5,9 @@ I am a passionate Front-End Developer diving into web development for the past y
 Here are some of the technologies I've been working with:
 
 Languages: HTML, CSS, JavaScript
+
 Tools & Platforms: Git, GitHub, Figma, Visual Studio Code
+
 Concepts: Responsive Design, Web Accessibility, RESTful APIs
 
 💻 Projects:
