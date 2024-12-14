@@ -1,14 +1,14 @@
 Hi there! 👋 I am Andreas van der Spa
 I am a passionate Front-End Developer diving into web development for the past year. I’ve been focused on creating responsive, accessible, and interactive web applications that not only look great but provide excellent user experiences.
 
-🚀 Skills 
+🚀 Skills: 
 Here are some of the technologies I've been working with:
 
 Languages: HTML, CSS, JavaScript
 Tools & Platforms: Git, GitHub, Figma, Visual Studio Code
 Concepts: Responsive Design, Web Accessibility, RESTful APIs
 
-💻 Projects
+💻 Projects:
 
 Project 1: Movie Store
 
@@ -25,7 +25,7 @@ Project 3: Hotview Labs Blog
 This is a blog that uses dynamic data. It features viewing blog posts and if you are logged in as an admin you can create, edit and delete posts.
 The layout in the project is responsive and modern which gives a nice user experience.
 
-> 📫 How to reach me:
+📫 How to reach me:
  If any questions feel free to reach out.
 
 [LinkedIn](https://www.linkedin.com/in/andreas-van-der-spa-618216341/)
